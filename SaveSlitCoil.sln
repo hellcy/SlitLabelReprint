@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveSlitCoil", "SaveSlitCoil\SaveSlitCoil.csproj", "{81AD87A0-2380-44B1-A538-C662BC161428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81AD87A0-2380-44B1-A538-C662BC161428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AD87A0-2380-44B1-A538-C662BC161428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AD87A0-2380-44B1-A538-C662BC161428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AD87A0-2380-44B1-A538-C662BC161428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65801E4A-AB69-47D0-920A-F4EA1A567916}
+	EndGlobalSection
+EndGlobal
