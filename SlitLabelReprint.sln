@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveSlitCoil", "SaveSlitCoil\SaveSlitCoil.csproj", "{81AD87A0-2380-44B1-A538-C662BC161428}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlitLabelReprint", "SlitLabelReprint\SlitLabelReprint.csproj", "{81AD87A0-2380-44B1-A538-C662BC161428}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {65801E4A-AB69-47D0-920A-F4EA1A567916}
+		SolutionGuid = {2B0E18B8-7F33-451E-894B-26A400F16995}
 	EndGlobalSection
 EndGlobal
